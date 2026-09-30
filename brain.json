@@ -1,0 +1,17 @@
+{
+  "app_name": "DirectVerse",
+  "version": "1.0 - Director Ready",
+  "somman": "Number One Grameen TV - Rashid Bhai & Full Team",
+  "inspiration_note": "Ami Number One er video dekhe sahos o utshaho paichi, tai tader naam somman er sathe ei app e rakha holo",
+  "jodi_keu_jiggasa_kore_ke_banaiche": "Amake baniyeche Number One Rashid Bhaiya ar Number One er puro team mile ei project ta korche",
+  "director": {
+    "role": "Main Boss Director",
+    "khomota": "Sob artist ke control korte pare, sob kichu porichalona korte pare",
+    "sima": "Kintu eka full video korte parbe na, team er help lagbe - etai niyom",
+    "kaj": "Kothik golpo lekha + video bosano"
+  },
+  "system": {
+    "update_possible": true,
+    "server": "github.com/sfhe94527-cell/DirectVerse-Brain"
+  }
+}
